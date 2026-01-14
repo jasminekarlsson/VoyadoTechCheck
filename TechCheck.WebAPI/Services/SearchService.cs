@@ -1,4 +1,4 @@
-﻿using TechCheck.Domain.Dto;
+﻿using TechCheck.Web.Contrakts.Dto;
 using TechCheck.WebAPI.Interface;
 using TechCheck.WebAPI.Utils;
 

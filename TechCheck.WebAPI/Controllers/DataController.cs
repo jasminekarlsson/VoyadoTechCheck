@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TechCheck.Domain.Dto;
+using TechCheck.Web.Contrakts.Dto;
 using TechCheck.WebAPI.Interface;
 
 namespace TechCheck.WebAPI.Controllers

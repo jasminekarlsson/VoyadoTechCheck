@@ -1,5 +1,5 @@
 ﻿using System.Text.Json;
-using TechCheck.Domain.Dto;
+using TechCheck.Web.Contrakts.Dto;
 using TechCheck.WebAPI.Constants;
 using TechCheck.WebAPI.Interface;
 using TechCheck.WebAPI.Models;

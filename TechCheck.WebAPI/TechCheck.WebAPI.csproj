@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TechCheck.Contract\TechCheck.Web.Kontrakt.csproj" />
+    <ProjectReference Include="..\TechCheck.Contract\TechCheck.Web.Contrakts.csproj" />
   </ItemGroup>
 
 </Project>

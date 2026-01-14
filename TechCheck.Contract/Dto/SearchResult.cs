@@ -1,8 +1,7 @@
-﻿namespace TechCheck.Domain.Dto
+﻿namespace TechCheck.Web.Contrakts.Dto;
+
+public class SearchResult
 {
-    public class SearchResult
-    {
-        public string SiteName { get; set; } = string.Empty;
-        public long NumberOfResults { get; set; } = 0;
-    }
+    public string SiteName { get; set; } = string.Empty;
+    public long NumberOfResults { get; set; } = 0;
 }

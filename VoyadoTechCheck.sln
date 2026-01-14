@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCheck.WebAPI", "TechCheck.WebAPI\TechCheck.WebAPI.csproj", "{450E34CA-D50B-4A7B-B20A-5808D12F8848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCheck.Web.Kontrakt", "TechCheck.Contract\TechCheck.Web.Kontrakt.csproj", "{80270FEE-C3CC-470D-8A0C-F444B766F4E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCheck.Web.Contrakts", "TechCheck.Contract\TechCheck.Web.Contrakts.csproj", "{80270FEE-C3CC-470D-8A0C-F444B766F4E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCheck.Web.Proxy", "TechCheck.Web.Proxy\TechCheck.Web.Proxy.csproj", "{444C6665-1DA8-4D24-A4F0-C635CCAF22CA}"
 EndProject

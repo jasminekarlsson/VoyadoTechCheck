@@ -1,6 +1,6 @@
-﻿using TechCheck.Domain.Dto;
+﻿using TechCheck.Web.Contrakts.Dto;
 
-namespace TechCheck.Domain
+namespace TechCheck.Web.Contrakts
 {
     public interface ISearchWebService
     {

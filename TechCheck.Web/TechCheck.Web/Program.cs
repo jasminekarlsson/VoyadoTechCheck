@@ -1,5 +1,5 @@
-using TechCheck.Domain;
 using TechCheck.Web.Components;
+using TechCheck.Web.Contrakts;
 using TechCheck.Web.Proxy;
 
 var builder = WebApplication.CreateBuilder(args);

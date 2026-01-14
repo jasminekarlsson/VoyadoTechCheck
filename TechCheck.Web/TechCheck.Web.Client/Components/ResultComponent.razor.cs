@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Components;
-using TechCheck.Domain.Dto;
+using TechCheck.Web.Contrakts.Dto;
 
 namespace TechCheck.Web.Client.Components
 {

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using TechCheck.Domain;
+using TechCheck.Web.Contrakts;
 using TechCheck.Web.Proxy;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);

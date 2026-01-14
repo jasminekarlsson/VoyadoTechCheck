@@ -1,7 +1,6 @@
-﻿namespace TechCheck.Domain.Dto
+﻿namespace TechCheck.Web.Contrakts.Dto;
+
+public class SearchParameter
 {
-    public class SearchParameter
-    {
-        public string InputParameter { get; set; } = string.Empty;
-    }
+    public string InputParameter { get; set; } = string.Empty;
 }

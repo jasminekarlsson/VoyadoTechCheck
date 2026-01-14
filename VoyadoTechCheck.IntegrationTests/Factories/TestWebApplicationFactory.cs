@@ -7,8 +7,7 @@ using VoyadoTechCheck.IntegrationTests.Mocks;
 
 namespace VoyadoTechCheck.IntegrationTests.Factories
 {
-    public class TestWebApplicationFactory
-    : WebApplicationFactory<Program>
+    public class TestWebApplicationFactory : WebApplicationFactory<Program>
     {
         protected override void ConfigureWebHost(IWebHostBuilder builder)
         {

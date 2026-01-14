@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
-using TechCheck.Domain;
-using TechCheck.Domain.Dto;
+using TechCheck.Web.Contrakts;
+using TechCheck.Web.Contrakts.Dto;
 
 namespace TechCheck.Web.Client.Pages
 {
