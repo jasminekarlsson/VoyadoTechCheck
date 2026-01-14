@@ -1,0 +1,22 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Web
+@using TechCheck.Web.Client.Components
+@rendermode InteractiveWebAssembly
+
+
+<h1>Voyado tech check</h1>
+
+<SearchComponent OnSearch="(searchParameter) => OnSearch(searchParameter)"></SearchComponent>
+
+@if (isLoading)
+{
+    <div class="d-flex justify-content-center">
+        <div class="spinner-border" role="status">
+        </div>
+    </div>
+}
+else if(Result.Count > 0)
+{
+    <ResultComponent Result="@Result" SearchWord="@SearchParameter"></ResultComponent>
+}

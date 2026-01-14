@@ -1,0 +1,6 @@
+@TechCheck.WebAPI_HostAddress = http://localhost:5124
+
+GET {{TechCheck.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
